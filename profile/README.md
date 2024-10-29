@@ -1,6 +1,3 @@
-<img src="https://itzmattcdn.com/i/ud4r4zph.png" alt="image">
-
-
 <h2>Our Links</h2>
 <ul>
   <li><a href="https://viperbotlist.com">Website</a></li>
