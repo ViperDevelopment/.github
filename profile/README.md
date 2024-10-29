@@ -1,7 +1,7 @@
 <h2>Our Links</h2>
 <ul>
   <li><a href="https://viperbotlist.com">Website</a></li>
-  <li><a href="https://discord.gg/Fp8CnqyWW8">Discord</a></li>
+  <li><a href="https://discord.gg/KanBnXqdM4">Discord</a></li>
   <li><a href="https://twitter.com/viperbotlist">Twitter</a></li>
   <li><a href="https://tiktok.com/@viperbotlist">TikTok</a></li>
   <li><a href="https://youtube.com/@viperbotlist">YouTube</a></li>
