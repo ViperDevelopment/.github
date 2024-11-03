@@ -19,7 +19,7 @@
 ## Hosting
 <p>Viper Bot list is currently powered by Ezrinix, LLC. They provide realiable hosting services for our Bot List and many other services. If you are looking for a reliable hosting provider, we recommend checking them out. You can find more information about by clicking on the "Powered by Ezrinix" button below.</p>
 
-<a href="https://ezrinix.com" target="_blank"><img src="https://ezrinix.network/images/Powered-By-Ezrinix.png" width="150" height="60" alt="Powered by Ezrinix Logo"></img></a>
+<a href="https://ezrinix.com" target="_blank"><img src="https://ezrinix.network/images/Powered-By-Ezrinix.png" width="176" height="60" alt="Powered by Ezrinix Logo"></img></a>
 
 <hr>
 
