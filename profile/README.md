@@ -16,7 +16,7 @@
 
 <hr>
 
-## Viper Bot List v4.0.0
+## Looking for v4?
 
 Version 4.0.0 has been archived and is no longer maintained. You can find the source code for it here: <a href="https://github.com/ViperBotList/vbl-ejs-v4">VBL v4</a>
 
