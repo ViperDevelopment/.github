@@ -14,6 +14,8 @@
   <li><a href="https://docs.viperbotlist.com/">Docs</a></li>
 </ul>
 
+Viper Bot List v4 has been archived and is no longer maintained. You can find the source code for v4 here: <a href="https://github.com/ViperBotList/vbl-ejs-v4">VBL v4</a>
+
 <hr>
 
 ## Hosting
