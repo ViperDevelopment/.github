@@ -16,12 +16,6 @@
 
 <hr>
 
-## Looking for v4?
-
-Version 4.0.0 has been archived and is no longer maintained. You can find the source code for it here: <a href="https://github.com/ViperBotList/vbl-ejs-v4">VBL v4</a>
-
-<hr>
-
 ## Hosting
 <p>Viper Bot list is currently powered by Ezrinix, LLC. They provide realiable hosting services for our Bot List and many other services. If you are looking for a reliable hosting provider, we recommend checking them out. You can find more information about by clicking on the "Powered by Ezrinix" button below.</p>
 
