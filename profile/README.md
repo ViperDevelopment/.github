@@ -1,3 +1,9 @@
+Viper Bot List is a bot directory that prioritizes smaller bots, providing an excellent platform for discovering new bots for your server. We foster a vibrant community and are continually welcoming new members to join us. Our dedicated staff team is always available to assist you with any questions you may have. You can easily filter bots by name, category, tags, and descriptions to find the perfect match for your needs!
+<hr>
+
+
+
+
 <h2>Our Links</h2>
 <ul>
   <li><a href="https://viperbotlist.com">Website</a></li>
