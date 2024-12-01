@@ -1,4 +1,4 @@
-<p>Viper Bot List is a bot directory that prioritizes smaller bots, providing an excellent platform for discovering new bots for your server. We foster a vibrant community and are continually welcoming new members to join us. Our dedicated staff team is always available to assist you with any questions you may have. You can easily filter bots by name, category, tags, and descriptions to find the perfect match for your needs!</p>
+<p>Viper Bot List is a bot directory that prioritizes smaller bots, providing an excellent platform for discovering new bots for your server. We foster a vibrant community and continually welcome new members to join us. Our dedicated staff team is always available to assist you with any questions. You can easily filter bots by name, category, tags, and descriptions to find the perfect match for your needs!</p>
 
 <hr>
 
@@ -13,12 +13,6 @@
   <li><a href="https://paypal.me/viperbotlist">Donate</a></li>
   <li><a href="https://docs.viperbotlist.com/">Docs</a></li>
 </ul>
-
-<hr>
-
-## Looking for v4?
-
-Version 4.0.0 has been archived and is no longer maintained. You can find the source code for it here: <a href="https://github.com/ViperBotList/vbl-ejs-v4">VBL v4</a>
 
 <hr>
 
