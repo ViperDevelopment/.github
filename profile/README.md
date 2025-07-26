@@ -6,9 +6,7 @@
 <ul>
   <li><a href="https://viperdevelopment.xyz">Website</a></li>
   <li><a href="https://discord.gg/KanBnXqdM4">Discord</a></li>
-  <li><a href="https://twitter.com/viperbotlist">Twitter</a></li>
-  <li><a href="https://youtube.com/@viperbotlist">YouTube</a></li>
-  <li><a href="https://docs.viperbotlist.com/">Docs</a></li>
+  <li><a href="https://x.com/ViperDev_">Twitter</a></li>
 </ul>
 
 <hr>
