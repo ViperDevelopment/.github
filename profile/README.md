@@ -1,4 +1,4 @@
-<p>Viper Bot List is a bot directory that prioritizes smaller bots, providing an excellent platform for discovering new bots for your server. We foster a vibrant community and continually welcome new members to join us. Our dedicated staff team is always available to assist you with any questions. You can easily filter bots by name, category, tags, and descriptions to find the perfect match for your needs!</p>
+<p>Viper Development is a community-driven project aimed at providing high-quality tools and services for Discord bot developers. Our projects include a ticket bot, counting bot, and code sharing website.</p>
 
 <hr>
 
@@ -12,8 +12,8 @@
 <hr>
 
 ## Hosting
-<p>Viper Development is powered by Infraly, LLC. They provide realiable hosting services for our many bots and services that we have. If you are looking for a reliable hosting provider, we recommend checking them out. You can find more information by clicking on the "Powered by Hosturly" button below.</p>
+<p>Viper Development is powered by Hetzner Online GmbH. They provide reliable hosting services for our many bots and services that we have. If you are looking for a reliable hosting provider, we recommend checking them out. You can find more information by clicking on the "Powered by Hetzner" button below.</p>
 
-<a href="https://ezrinix.com" target="_blank"><img src="https://ezrinix.network/images/Powered-By-Ezrinix.png" width="176" height="60" alt="Powered by Ezrinix Logo"></img></a>
+<a href="https://hetzner.com" target="_blank"><img src="https://hetzner.com/logo.png" width="176" height="60" alt="Powered by Hetzner Logo"></img></a>
 
 <hr>
