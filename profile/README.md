@@ -36,6 +36,6 @@ All bots share a common architecture designed for performance, scalability, and 
 ViperDevelopment/
 ├── ArcaniumBot       # 🎫 Streamline your support with ease!
 ├── ShadowBot         # 🛡️ Keep your server safe with ease! (In Development)
-├── Lumi              # Keeps our main Discord server safe
+├── Lumi              # ⚔ Keeps our main Discord server safe
 └── README.md
 ```
